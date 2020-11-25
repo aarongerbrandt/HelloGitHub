@@ -6,3 +6,6 @@ git commit -m "description"
 
 git push
  - adds your local changes to the remote repository
+
+git clone
+ - creates a clone of a respository into a new directory
